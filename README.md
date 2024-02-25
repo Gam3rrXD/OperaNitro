@@ -1,4 +1,5 @@
 <img width="964" alt="image" src="https://github.com/Gam3rrXD/OperaNitro/assets/84348006/25948ba0-4a71-496a-bd99-3d775164fe5f">
+
 # OperaNitro
 This repository showcases a basic program designed to exploit Opera GX's free nitro promotion, enabling the generation of an unlimited number of functional nitro codes. This is strictly for educational purposes, to demonstreate the consequences of lacking CSRF validation and similar security measures.
 
